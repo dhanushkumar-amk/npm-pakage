@@ -1,0 +1,27 @@
+{
+  "name": "smart-data-masking",
+  "version": "1.0.0",
+  "description": "Smart Data Masking Library",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanushkumar-amk/Smart-Data-Masking-Library.git"
+  },
+  "keywords": [
+    "data",
+    "masking",
+    "data",
+    "encryption",
+    "encrypt"
+  ],
+  "author": "dhanushkumar G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhanushkumar-amk/Smart-Data-Masking-Library/issues"
+  },
+  "homepage": "https://github.com/dhanushkumar-amk/Smart-Data-Masking-Library#readme"
+}
